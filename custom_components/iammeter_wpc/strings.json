@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Define your IamMeter wpc-connection",
+        "data": {
+          "host": "The ip-address of your IamMeter WPC device",
+          "name": "The prefix to be used for your IamMeter sensors",
+          "port": "The TCP port on which to connect to the IamMeter"
+        }
+      }
+    },
+    "error": {
+      "already_configured": "Device has already configured",
+      "cannot_connect": "[%key:common::config_flow::error::cannot_connect%]"
+    },
+    "abort": {
+      "already_configured": "Device has already configured"
+    }
+  }
+}

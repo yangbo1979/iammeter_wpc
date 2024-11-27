@@ -1,0 +1,12 @@
+{
+  "domain": "iammeter_wpc",
+  "name": "IamMeter Wpc",
+  "version": "0.0.1",
+  "documentation": "https://github.com/lewei50/ha_iammeter_wpc",
+  "issue_tracker": "https://github.com/lewei50/ha_iammeter_wpc/issues",
+  "requirements": ["IammeterWpc >=0.1"],
+  "dependencies": [],
+  "codeowners": ["@yangbo1979"],
+  "config_flow": true,
+  "iot_class": "local_polling"
+}
