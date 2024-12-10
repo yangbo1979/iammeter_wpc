@@ -1,5 +1,5 @@
 {
-  "domain": "iammeter",
+  "domain": "iammeter_wpc",
   "name": "IamMeter Wpc",
   "codeowners": ["@yangbo1979"],
   "config_flow": true,
